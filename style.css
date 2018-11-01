@@ -8,3 +8,45 @@
     font-size: 2em;
     line-height: 1.5;
 }
+
+.bgwhite
+{
+    background-color: white;
+}
+
+.bggray
+{
+    background-color: #fbfbfb;
+}
+
+.main_content
+{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.main_content *
+{
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 1.5em;
+}
+
+.work
+{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.work *
+{
+    padding-bottom: 0%;    
+}
+
+
+.work p
+{
+    font-size : 2em;
+    padding : 5%;
+    text-align : center;
+}
