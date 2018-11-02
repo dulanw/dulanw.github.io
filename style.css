@@ -46,7 +46,9 @@
 
 .work p
 {
-    font-size : 2em;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(93, 93, 93);
+    font-size : 24px;
     padding : 5%;
     text-align : center;
 }
