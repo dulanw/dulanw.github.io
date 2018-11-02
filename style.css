@@ -50,3 +50,15 @@
     padding : 5%;
     text-align : center;
 }
+
+.work a:hover, a:visited, a:link, a:active
+{
+    color: inherit;
+    text-decoration: none;
+}
+
+.nopadx
+{
+    padding-left: 0%;
+    padding-right: 0%;
+}
