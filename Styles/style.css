@@ -36,6 +36,7 @@
 {
     padding-left: 2%;
     padding-right: 2%;
+    
 }
 
 .work *
@@ -44,13 +45,15 @@
 }
 
 
-.work p
+.work .text
 {
     font-family: 'Work Sans', sans-serif;
     color: rgb(93, 93, 93);
     font-size : 24px;
     padding : 5%;
     text-align : center;
+    vertical-align: center;
+    width: 100%;
 }
 
 .work a:hover, a:visited, a:link, a:active
@@ -64,3 +67,6 @@
     padding-left: 0%;
     padding-right: 0%;
 }
+
+
+
